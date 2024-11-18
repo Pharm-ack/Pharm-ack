@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oluwashina</h1>
 <h3 align="center">A passionate web developer from Nigeria</h3>
 
-- 🌱 I’m currently learning **ReactNative, Go**
+- 🌱 I’m currently learning **ReactNative, Solidity**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-kappa-fawn.vercel.app/](https://pharmack.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://pharmack.vercel.app/](https://pharmack.vercel.app/)
 
 - 💬 Ask me about **ReactJs, NextJs**
 
